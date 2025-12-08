@@ -214,6 +214,8 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAwOWU3YTktZWZlZS00YWNmL
 
 ![ Host Activity and Performance](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_page2.png)
 
+---
+
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
 ***Improve Pricing Balance Across Room Types**
