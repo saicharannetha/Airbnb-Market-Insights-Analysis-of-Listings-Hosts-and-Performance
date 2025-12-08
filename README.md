@@ -119,14 +119,6 @@ airbnb-analysis/
 
 - Review behaviour and host activity do not show strong numeric influence on pricing patterns
 
-**Key Visualisation Insight:**
-
-- The heatmap of average price by room type and neighbourhood shows Manhattan consistently priced at the top across all room categories
-
-- Shared rooms in Queens and Staten Island remain the most budget-friendly
-
-- Entire homes and hotel rooms display the widest price variation across neighbourhood groups
-
 ---
 <h2>Research Questions & Key Findings</h2>
 
