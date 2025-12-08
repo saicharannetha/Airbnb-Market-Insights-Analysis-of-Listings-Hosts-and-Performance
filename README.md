@@ -1,7 +1,6 @@
 # Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance
 This project analyses Airbnb listings to understand pricing patterns, host activity and property performance. It focuses on key factors such as property availability, average price, host engagement and customer interest. he dashboard highlights trends in locations, room types and ratings to give a quick view of market behavior.
 
-![zepto_home](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_home.png)
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
@@ -177,6 +176,9 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAwOWU3YTktZWZlZS00YWNmL
 
 **home**
 
+![airbnb_home](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_home.png)
+
+
 **Page 1 – Property Overview**
 
 
@@ -193,6 +195,8 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAwOWU3YTktZWZlZS00YWNmL
 -  Price by Year
 
 -  Property Details Table
+
+  ![ Property Overview](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_page1.png)
   
 **Page 2 – Host Activity and Performance**
 
@@ -215,7 +219,7 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAwOWU3YTktZWZlZS00YWNmL
 
 - KPIs: Total Hosts, Total Revenue, Average Host Rating, Active Hosts, Avg Listings per Host, Multi-Listing Hosts, Hosts Without License
 
-![ Property Overview](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_page1.png)
+
 ![ Host Activity and Performance](https://github.com/saicharannetha/Airbnb-Market-Insights-Analysis-of-Listings-Hosts-and-Performance/blob/main/Dashboard/airbnb_page2.png)
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
